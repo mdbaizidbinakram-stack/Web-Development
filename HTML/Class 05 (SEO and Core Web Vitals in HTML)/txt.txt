@@ -1,0 +1,5 @@
+SEO -> Search Engine Optimization
+Core Web Vitals
+    CLS -> Cumulative Layout Shift  ***
+    LCP -> Largest Contentful Paint (2.5sec)
+    FID -> First Input Delay (100ms)
