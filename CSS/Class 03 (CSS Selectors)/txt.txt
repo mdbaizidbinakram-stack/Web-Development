@@ -1,0 +1,26 @@
+Element selector
+div{}
+p{}
+h1{}
+
+Class selector
+.className{}
+
+Id selector
+#idName{}
+
+Child selector
+parentName > childName {}
+
+Descendant selector
+div p {}  //any place in div  
+
+Universal selector
+* {}
+
+Pseudo selector
+name:visited{}
+name:link{}
+name:active{}
+name:hover{}
+name:first-child{}
