@@ -1,0 +1,8 @@
+total width = Width + left padding + right padding + left margin + right margin
+total height = height + top padding + bottom padding + top margin + bottom margin
+
+height 200px means the content size is 200px
+box-sizing: border box means the content + padding + border = given size
+
+margin collapse: If the margin of 2 contents overlap each other then the maximum 
+margin is counted.
