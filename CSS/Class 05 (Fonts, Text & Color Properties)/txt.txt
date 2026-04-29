@@ -1,0 +1,38 @@
+Font:
+
+font-family;
+font-size;
+font-style;
+font-height;
+font-width;
+
+Text:
+
+text-transform;
+text-decoration;
+text-decoration-color;
+text-decoration-style;
+text-decoration-thickness;
+text-indent;
+text-overflow;
+text-align;
+line-height;
+word-break;
+
+Color:
+
+HSL: HSL stands for hue, saturation, and lightness. This is another way to set color
+properties. Breaking each keyboard.
+
+Hue(h): Hue repeats the type of color. It is measured in degrees, and its value lies from 
+0 to 360.
+0 degree represents black, 120 degree is for green, and 360 degree for blue.
+
+Saturation(s): Saturation controls the intensity or purity of the color. It is measured in 
+percentage, and its value lies between 0% and 100%.
+0% saturation is no color (grayscale) and 100% saturation is the most intense color.
+
+Lightness(L): Lightness determines how light or dark the color is. It is measured in 
+percentage, and its value lies between 0% and 100%.
+0% lightness represents pure black, 50% lightness represents normal color, and 100% 
+lightness is pure white.
