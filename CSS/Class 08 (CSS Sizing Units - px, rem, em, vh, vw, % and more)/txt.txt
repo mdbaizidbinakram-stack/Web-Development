@@ -1,0 +1,7 @@
+for block element margin auto is appliable. not inline element.
+
+em depends on parent font-size. Default value 16px.
+rem depends on root font-size.
+
+for computer vmin means height & vmax means weight.
+for phone vmin means weight & vmax means height.
