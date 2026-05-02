@@ -1,0 +1,11 @@
+The Casecade Algorithm has 4 distinct stages.
+
+1. Position and order of apprearance: The order in which your CSS rules appear.
+2. Specificity: An algorithm that determines which CSS selectors has the strongest match.
+3. Origin: The order in which CSS appears and where it comes from, whether that is a browser style, CSS from a browser extension, or your authored CSS.
+4. Importance: Some CSS rules are weighted more heavily than others, especially with the important rule type.
+
+Specificity list:
+Inline style > Id Selector > Class or Attributes Selector > Element Selector > Universal Selector
+
+!important can overwrite Inline style
