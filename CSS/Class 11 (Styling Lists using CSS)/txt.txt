@@ -1,0 +1,4 @@
+HTML Lists
+-> Our day-to-day lives often involve the use of lists. For example, when we go shopping,
+the bill we received includes a list of all the items we've purchased. In a simillar
+manner, web developers use lists to neatly display data on websites.
