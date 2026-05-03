@@ -1,0 +1,2 @@
+nowrap means take space horizontal, line will not come in vertical align.
+clip & hidden are same but when clip is used then scroll is disable.
